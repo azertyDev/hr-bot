@@ -1,0 +1,20 @@
+{
+  "name": "hr_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "forever-monitor": "^1.7.1",
+    "node-cron": "^2.0.3",
+    "node-schedule": "^1.3.2",
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.88.0"
+  }
+}
